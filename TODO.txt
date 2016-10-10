@@ -1,0 +1,7 @@
+TODO list :
+
+*Génération du plateau
+*Création des différentes pièces
+*Création des différents terrains
+*Gestion de la phase de placement des pions + brouillard de guerre
+*Gestion des tours de jeu*
