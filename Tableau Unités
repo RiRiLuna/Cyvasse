@@ -1,0 +1,52 @@
+//Définitions du tableau
+  units bdd_units[15];
+
+  //Peon
+  bdd_units[0].ID = rabble;
+  bdd_units[0].range = 0;
+  bdd_units[0].blocks_per_move = 1;
+
+  //Lancier
+  bdd_units[1].ID = spearman;
+  bdd_units[1].range = 0;
+  bdd_units[1].blocks_per_move = 1;
+
+  //Arbalétier
+  bdd_units[2].ID = crossbowman;
+  bdd_units[2].range = 1;
+  bdd_units[2].blocks_per_move = 1;
+
+  //Cavalier Léger
+  bdd_units[3].ID = l_horse;
+  bdd_units[3].range = 0;
+  bdd_units[3].blocks_per_move = 3;
+
+  //Cavalier Lourd
+  bdd_units[4].ID = h_horse;
+  bdd_units[4].range = 0;
+  bdd_units[4].blocks_per_move = 2;
+
+  //Éléphant
+  bdd_units[5].ID = trebuchet;
+  bdd_units[5].range = 0;
+  bdd_units[5].blocks_per_move = 1;
+
+  //Catapulte
+  bdd_units[6].ID = catapult;
+  bdd_units[6].range = 2;
+  bdd_units[6].blocks_per_move = 1;
+
+  //Trébuchet
+  bdd_units[7].ID = elephant;
+  bdd_units[7].range = 3;
+  bdd_units[7].blocks_per_move = 1;
+
+  //Dragon
+  bdd_units[8].ID = dragon;
+  bdd_units[8].range = 0;
+  bdd_units[8].blocks_per_move = 7;
+
+  //Roi
+  bdd_units[9].ID = king;
+  bdd_units[9].range = 0;
+  bdd_units[9].blocks_per_move = 1;
