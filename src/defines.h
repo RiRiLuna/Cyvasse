@@ -17,6 +17,6 @@ typedef struct units
 }units;
 
 enum units_ID { rabble, spearman, crossbowman, l_horse, h_horse, trebuchet, catapult, elephant, dragon, king };
-enum tiles_ID { grass, forest, water, mountain, fortress };
+enum tiles_ID { grass, forest, water, mountain, fortress, ruin };
 
 #endif // DEFINES_H
