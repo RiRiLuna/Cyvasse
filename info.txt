@@ -1,0 +1,6 @@
+Dimensions de la fenêtre : 1200x800px
+Taille d'une case : 80x80px
+Taille du plateau de jeu : 8x8 cases
+I play pokemon go everyday
+Sélection en 2 étapes pour la création du royaume
+Cf. Boris pour le logo
