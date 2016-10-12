@@ -1,7 +1,7 @@
 TODO list :
 
-*Génération du plateau
-*Création des différentes pièces
-*Création des différents terrains
-*Gestion de la phase de placement des pions + brouillard de guerre
-*Gestion des tours de jeu*
+*Création du menu
+*Ajout des boutons (jouer, options, quitter)
+*Design des différents éléments
+*Sous-menu jouer (jouer 1v1, IA, ...) et options (gestion son et musique, langue, gestion taille, ...)
+*Musique et sons à créer
