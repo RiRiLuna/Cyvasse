@@ -5,8 +5,11 @@
 #include <stdio.h>
 
 #define NB_BLOCKS   8
-#define BLOCK_SIZE  80
+#define BLOCK_SIZE  87.5
 #define BOARD_SIZE  NB_BLOCKS * BLOCK_SIZE
+
+#define WINDOW_WIDTH    1200
+#define WINDOW_HEIGHT   800
 
 typedef struct units
 {
@@ -15,7 +18,7 @@ typedef struct units
     short blocks_per_move;
 }units;
 
-enum units_ID { rabble, spearman, crossbowman, l_horse, h_horse, trebuchet, catapult, elephant, dragon, king };
-enum tiles_ID { grass, forest, water, mountain, fortress, ruin };
+enum units_ID { RABBLE, SPEARMAN, CROSSBOWMAN, L_HORSE, H_HORSE, TREBUCHET, CATAPULT, ELEPHANT, DRAGON, KING };
+enum tiles_ID { GRASS, FOREST, WATER, MOUNTAIN, FORTRESS, RUIN };
 
 #endif // DEFINES_H
